@@ -1,0 +1,9 @@
+chinese-poetry	https://github.com/chinese-poetry/chinese-poetry
+中文开源榜单	https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Python
+红色警戒95原代码	https://github.com/electronicarts/CnC_Remastered_Collection/issues
+NanoImagePackingGroup	https://github.com/bionanoimaging/UC2-GIT
+bioIPHT	https://nanoimaging.de/
+github文件下载（目前对我来说可能不太有用了） https://minhaskamal.github.io/DownGit/#/home
+python练习题	https://github.com/Yixiaohan/show-me-the-code/blob/master/README.md
+octave	https://www.gnu.org/software/octave/index
+turtleExample https://michael0x2a.com/blog/turtle-examples
